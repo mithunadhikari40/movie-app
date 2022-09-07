@@ -21,3 +21,14 @@ Follow the following steps to disable chrome web security
 `Find --disable-extensions`
 
 `Add --disable-web-security`
+
+### Features to be implemented
+
+`Search for movies`
+
+`Sort movies according to name and release date`
+
+### Bugs
+`Update the state when new set of movies are fetched`
+
+`Fix the issue of scrollview jumping to the top when reached the bottom`
